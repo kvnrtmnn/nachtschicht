@@ -1,0 +1,6 @@
+{
+  "name": "Security Academy 34a",
+  "description": "Interaktiver 3D-Sicherheitsdienst-Simulator für die IHK-Sachkundeprüfung nach § 34a GewO mit begehbarem Industriepark, Video-Leitstelle, KI-Tätern, Rechtsentscheidungen und Dozenten-Modus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
